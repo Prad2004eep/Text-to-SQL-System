@@ -1,4 +1,4 @@
-# Production-Level AI Data Assistant
+# Text-to-SQL System
 
 A comprehensive local Python application that converts natural language questions into SQL with advanced features including auto-correction, visualization, export, and conversational context.
 
