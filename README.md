@@ -1,4 +1,4 @@
-# Production-Level AI Data Assistant
+# Text-to-SQL System
 
 A comprehensive local Python application that converts natural language questions into SQL with advanced features including auto-correction, visualization, export, and conversational context.
 
@@ -286,4 +286,3 @@ pytest
 - Unsafe operations such as `DELETE`, `DROP`, `UPDATE`, `INSERT`, `ALTER`, `TRUNCATE`, `CREATE`, and `REPLACE` are blocked.
 - If `GROQ_API_KEY` is set, the app tries Groq first and falls back to local rules if the API is unavailable or returns unusable SQL.
 - The Streamlit UI includes a sidebar history panel and example-query dropdown.
-- Add screenshots after launching the UI locally if you want visual documentation in this README.
